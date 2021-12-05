@@ -1,0 +1,135 @@
+/* HTML Style */
+
+html
+
+{
+
+    background-color: rgb(197,225,177);
+
+}
+
+h2 
+
+
+{
+    
+    color: white;
+
+}
+
+/* Table Style*/
+
+table 
+
+{
+    width: 600px;
+    height: 240px;
+    background-color: rgb(197,225,177);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+th, td
+
+{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+
+}
+
+caption 
+
+{
+
+    color: white;
+    caption-side: bottom;
+    font-size: 18px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+
+#TableName
+
+{
+
+    padding: 10px;
+    column-span: all;
+    border-style: none;
+    font-weight: lighter;
+
+
+}
+
+/* List Styles */ 
+
+.liPad
+
+{
+
+   padding-left: 10px;
+   list-style-position: inside;
+
+    
+}
+
+li > a 
+
+{
+
+    text-decoration: none;
+    color: black;
+
+
+}
+
+li > a:hover 
+
+{
+
+    color: white;
+
+}
+
+
+/* Image Style */
+
+#pic
+
+{
+
+    max-width: 200px;
+    max-height: 150px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #6fac44;
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+
+
+}
+
+*
+{
+
+    font-family: 'Tahoma','Verdana', Segoe, sans-serif;
+
+}
+
+#student
+{
+
+    background-color: #6fac44;
+    border: 1px solid black;
+    width: 600px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
+
+}
